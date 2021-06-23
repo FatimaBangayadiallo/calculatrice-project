@@ -1,0 +1,71 @@
+.premier-row {
+    background-color: gray;
+    height: 87px;
+}
+
+.premier-col {
+    text-align: right;
+    font-size: 60px;
+    color: white;
+}
+
+.second-row {
+    background-color: gainsboro;
+    height: 87px;
+}
+
+.p-col-1 {
+    border: 1px solid gray;
+    font-size: 40px;
+}
+
+.p-col-2 {
+    border: 1px solid gray;
+    font-size: 40px;
+}
+
+.p-col-3 {
+    border: 1px solid gray;
+    font-size: 40px;
+}
+
+.p-col-4 {
+    border: 1px solid gray;
+    font-size: 40px;
+    background-color: orangered;
+    color: white;
+}
+
+.troisieme-ro {
+    background-color: gainsboro;
+    height: 87px;
+}
+
+.quratrieme-row {
+    background-color: gainsboro;
+    height: 87px;
+}
+
+.cinq-row {
+    background-color: gainsboro;
+    height: 87px;
+}
+
+.sixieme-row {
+    background-color: gainsboro;
+    height: 87px;
+}
+
+.cal-6 {
+    font-size: 40px;
+    border: 1px solid gray;
+}
+
+.cal-3 {
+    font-size: 40px;
+    border: solid 1px gray;
+}
+
+.cal-last {
+    background-color: orangered;
+}
